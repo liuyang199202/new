@@ -6,6 +6,25 @@ public class Cart {
 
     private String a;
 
+    private Integer b;
+
+    public Integer getB() {
+        return b;
+    }
+
+    public void setB(Integer b) {
+        this.b = b;
+    }
+        private String aa;
+
+    public String getAa() {
+        return aa;
+    }
+
+    public void setAa(String aa) {
+        this.aa = aa;
+    }
+
     public String getA() {
         return a;
     }
