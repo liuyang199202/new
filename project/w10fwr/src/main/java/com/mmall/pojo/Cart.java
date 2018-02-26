@@ -3,6 +3,17 @@ package com.mmall.pojo;
 import java.util.Date;
 
 public class Cart {
+
+    private String a;
+
+    public String getA() {
+        return a;
+    }
+
+    public void setA(String a) {
+        this.a = a;
+    }
+
     private Integer id;
 
     private Integer userId;
