@@ -4,6 +4,16 @@ import java.util.Date;
 
 public class Cart {
 
+    private String c;
+
+    public String getC() {
+        return c;
+    }
+
+    public void setC(String c) {
+        this.c = c;
+    }
+
     private String a;
 
     public String getA() {

@@ -3,6 +3,17 @@ package com.mmall.pojo;
 import java.util.Date;
 
 public class Category {
+
+    private String abc;
+
+    public String getAbc() {
+        return abc;
+    }
+
+    public void setAbc(String abc) {
+        this.abc = abc;
+    }
+
     private Integer id;
 
     private Integer parentId;
