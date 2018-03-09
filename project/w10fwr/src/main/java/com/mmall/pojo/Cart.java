@@ -4,6 +4,10 @@ import java.util.Date;
 
 public class Cart {
 
+    private Integer b;
+
+
+
     private String c;
 
     public String getC() {
